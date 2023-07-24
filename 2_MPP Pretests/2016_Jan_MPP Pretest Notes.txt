@@ -1,0 +1,16 @@
+- Data structure:
+1- Remove duplicates from a given arrayList of objects (hint, you can implement equal() method which is used by arrayList.contains() method.
+
+2- Two levels sorting, sort a given list of objects by object.name then object.salary
+for example 
+Ali 100
+Diab 100
+Diab 200
+Zyad 100
+(hint: use comparable or comparator interfaces and implement comparaTo() method then call collections.sort())
+
+- polymorphism 
+Given circle and rectangle classes, and a list of objects (circles && rectangles) and it was required to compute the average area of these objects and change the list datatype, (hint: create a shape interface and add computeArea() method to it, then circle and rectangle classes should implement this interface and override the ComputeArea() method, and also change the list datatype from object to shape)
+
+- Recursion:
+Given an array of integers and it was required to perform a search operation on it.
